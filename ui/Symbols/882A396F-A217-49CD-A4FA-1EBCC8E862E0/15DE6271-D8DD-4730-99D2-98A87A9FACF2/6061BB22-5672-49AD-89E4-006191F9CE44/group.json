@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "6061BB22-5672-49AD-89E4-006191F9CE44",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 380,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "92DD1C4D-B30B-4186-920C-8D1908DC685A"
+    },
+    {
+      "class": "text",
+      "id": "40452BA8-C55C-4064-BF30-998EAF78DA2D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "39D5E66A-AA25-494D-8CD6-2D9002D186AE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D4F7CA08-4231-4C6D-B79F-773CF431C2A4"
+    }
+  ],
+  "name": "table_Appointment_1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

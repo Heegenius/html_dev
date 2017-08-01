@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "32D0C185-4ECA-45B6-84FA-68846508A2B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 21,
+    "x": 20,
+    "y": 32
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "38B3B2A3-5B0D-44E5-ABD4-31FCA3596663"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0EEB6D1F-FD4D-47DE-B3A9-72621D2BF90D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EB731667-8069-4067-BC2D-033ED230C774"
+    }
+  ],
+  "name": "icon_hamburger",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
